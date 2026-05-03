@@ -1,0 +1,5 @@
+# Local outputs (never commit these — they contain machine-specific data)
+*.log
+*.csv
+*.db
+*-baseline.txt
