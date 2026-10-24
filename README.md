@@ -1,6 +1,26 @@
-# vpx-autoqa-monitor
+<p align="center">
+  <img src="assets/logo.png" width="300" alt="vpx-autoqa-monitor">
+</p>
 
-Companion scripts for [PinUP Popper](https://www.nailbuster.com/wikipinup/) **PopperAutoQA** that turn its silent table-cycling run into a structured, categorized failure report.
+<h1 align="center">vpx-autoqa-monitor</h1>
+
+<p align="center"><em>Every broken table, caught and categorized.</em></p>
+
+<p align="center">
+  Companion scripts for <a href="https://www.nailbuster.com/wikipinup/">PinUP Popper</a>
+  <strong>PopperAutoQA</strong> that turn its silent table-cycling run into a structured,
+  categorized failure report.
+</p>
+
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2010%2F11-111">
+  <img alt="Shell" src="https://img.shields.io/badge/shell-PowerShell%205.1%2B-111">
+  <img alt="Analysis" src="https://img.shields.io/badge/analysis-SQLite-111">
+  <img alt="Target" src="https://img.shields.io/badge/target-PinUP%20Popper%20%2F%20VPX-111">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
+</p>
+
+---
 
 ## What it does
 
@@ -173,4 +193,4 @@ D:\PinscapeConfigTool\PinscapeCmd.exe NightMode=OFF Quiet
 
 ## License
 
-MIT.
+MIT — see [LICENSE](LICENSE).
